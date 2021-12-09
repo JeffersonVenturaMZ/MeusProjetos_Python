@@ -1,4 +1,4 @@
-from Capitulo3_Funcoes import IdentificacaoDeFuncoes as Ident
+import IdentificacaoDeFuncoes as Ident
 
 minhaLista=[]
 print("Preenchendo")
