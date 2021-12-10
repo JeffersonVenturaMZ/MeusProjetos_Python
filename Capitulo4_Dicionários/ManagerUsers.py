@@ -1,4 +1,4 @@
-import Funcoes.Funcoes_Dicionarios as fun
+import Funcoes as fun
 
 usuarios = {}
 opcao = fun.perguntar()
